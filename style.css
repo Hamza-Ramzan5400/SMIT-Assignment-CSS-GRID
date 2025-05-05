@@ -22,7 +22,7 @@
     font-weight: 800;
     text-transform: capitalize;
     font-size: 15px;
-    color:#004d40;
+    color:black;
     text-align: center;
 }
 nav {
@@ -54,7 +54,7 @@ main {
     grid-area: content2;
 }
 #content3 {
-  background-color: #421a1c;
+  background-color: #af4e97;
     grid-area: content3;
       border-radius: var(--main-radius);
   padding-top: var(--main-padding);
